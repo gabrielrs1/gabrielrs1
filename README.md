@@ -1,7 +1,9 @@
-### Hello 👋
+# Hello 👋
 
 Software developer. Working with Node.js, React.js, HTML5/CSS3
-  
+
+<br/>
+
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -15,6 +17,8 @@ Software developer. Working with Node.js, React.js, HTML5/CSS3
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+<br/>
 
 ## Github stats
 
