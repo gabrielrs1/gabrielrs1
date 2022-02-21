@@ -1,10 +1,6 @@
 ### Hello 👋
-<!--
-[3]: https://www.linkedin.com/in/gabrielr-santos/
- You can find me [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
--->
 
-Software developer. Working with Node.js, React.js, HTML5/CSS3.
+Software developer. Working with Node.js, React.js, HTML5/CSS3. You can find me ![image]({})
   
 ## Technologies & Tools
 
@@ -28,3 +24,6 @@ Software developer. Working with Node.js, React.js, HTML5/CSS3.
 <a href="https://github.com/gabrielrs1">
   <img width="470px" align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrs1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+[3]: https://www.linkedin.com/in/gabrielr-santos/
+[3.2]: https://user-images.githubusercontent.com/59850458/155031338-edef23e3-70cb-48e7-b90a-0bbb6cfa8cd1.png
