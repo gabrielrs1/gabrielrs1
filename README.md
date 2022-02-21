@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Software developer. Working with Node.js, React.js, HTML5/CSS3. You can find me ![image]({})
+Software developer. Working with Node.js, React.js, HTML5/CSS3
   
 ## Technologies & Tools
 
@@ -24,6 +24,3 @@ Software developer. Working with Node.js, React.js, HTML5/CSS3. You can find me 
 <a href="https://github.com/gabrielrs1">
   <img width="470px" align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrs1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
-[3]: https://www.linkedin.com/in/gabrielr-santos/
-[3.2]: https://user-images.githubusercontent.com/59850458/155031338-edef23e3-70cb-48e7-b90a-0bbb6cfa8cd1.png
