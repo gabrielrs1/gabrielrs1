@@ -1,6 +1,6 @@
 # Hello 👋
 
-Software developer. Working with Node.js, React.js, HTML5/CSS3, Caché (ObjectScript).
+Software developer. Work with Node.js, React.js, HTML5/CSS3, Caché (ObjectScript).
 
 <br/>
 
